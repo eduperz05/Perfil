@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -10,9 +10,14 @@
       "surnames": "Pérez Suárez",
       "title": "Computer Engineer, Fullstack",
       "description": "I'm most focusing on web development, back to front. \nAlways with a good attitude in order to achieve the goal.\nThose who knows me, calls me a geek of documentation.",
+      "avatar": {
+        "alt": "Captura de pantalla 2022-09-21 182838.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/7ac1bf4c-2c26-444d-8abf-8b63728cceed_captura-de-pantalla-.png"
+      },
       "location": {
         "country": "España",
-        "region": "Canarias"
+        "region": "Canarias",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
