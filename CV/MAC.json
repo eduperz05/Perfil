@@ -454,32 +454,6 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [
-        {
-          "name": "C++",
-          "type": "technology"
-        },
-        {
-          "name": "Cobol",
-          "type": "technology"
-        },
-        {
-          "name": "PHP",
-          "type": "technology"
-        },
-        {
-          "name": "Ruby",
-          "type": "technology"
-        },
-        {
-          "name": "WordPress",
-          "type": "technology"
-        },
-        {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Full-stack Developer"
       ]
