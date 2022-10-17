@@ -296,6 +296,28 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "UX Experience",
+        "startDate": "2021-10-01",
+        "finishDate": "2021-11-01",
+        "institution": {
+          "name": "Fundación General Universidad de La Laguna",
+          "description": "Introducción al diseño de experiencia e interfaz de usuario",
+          "URL": "https://sede.fg.ull.es/",
+          "image": {
+            "alt": "fundación-general-de-la-ull.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/17/1a1e714b-02a6-49c4-9568-61335b799fff_fundacion-general-de.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Figma",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Engenier",
