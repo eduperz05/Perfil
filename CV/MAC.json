@@ -37,20 +37,6 @@
         "URL": "https://www.linkedin.com/in/eduardoperezsuarez/"
       }
     ],
-    "interestingFacts": [
-      {
-        "topic": "Favourite videogamers",
-        "fact": "* League of legends\n* Death by daylight\n* Crash Bandicoot"
-      },
-      {
-        "topic": "Favorite places to travel: ",
-        "fact": "Countries:\n* Japan\n* Australia\n* Canada\n* Netherlands"
-      },
-      {
-        "topic": "Favourite band: Gorillaz and Nickelback",
-        "fact": "Favourite albums:\n\n/Gorillaz/\n* Demon Days\n* Plastic Beach\n\n/Nickelback/\n* Dark Hourse\n* No fixed Address"
-      }
-    ],
     "recommendations": [
       {
         "title": "Frontend developer",
