@@ -414,6 +414,22 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Introducción a las matemáticas universitarias",
+        "startDate": "2016-08-01",
+        "finishDate": "2016-09-01",
+        "institution": {
+          "name": "Fundación General Universidad de La Laguna",
+          "description": "Curso introductorio a las matemáticas universitarias",
+          "URL": "https://sede.fg.ull.es/",
+          "image": {
+            "alt": "fundación-general-de-la-ull.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/17/9e230328-0f33-469e-9cbb-65279d69a537_fundacion-general-de.png"
+          }
+        }
       }
     ]
   },
