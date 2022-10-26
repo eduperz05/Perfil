@@ -1,12 +1,12 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
-      "name": "Eduardo",
+      "name": "Eduardoooo",
       "surnames": "Pérez Suárez",
       "title": "Computer Engineer, Fullstack",
       "avatar": {
@@ -15,7 +15,8 @@
       },
       "location": {
         "country": "España",
-        "region": "Canarias"
+        "region": "Canarias",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -119,10 +120,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -480,6 +483,7 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
