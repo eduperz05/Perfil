@@ -510,7 +510,23 @@
           "type": "technology"
         },
         {
-          "name": "Django",
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
           "type": "technology"
         },
         {
@@ -518,11 +534,23 @@
           "type": "technology"
         },
         {
+          "name": "Nginx",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
         {
-          "name": "Python",
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
           "type": "technology"
         },
         {
