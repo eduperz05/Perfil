@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,8 +15,7 @@
       },
       "location": {
         "country": "España",
-        "region": "Canarias",
-        "notes": "Autocompleted using Google Maps API"
+        "region": "Canarias"
       }
     },
     "relevantLinks": [
@@ -115,17 +114,69 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "MKIdea",
+          "description": "This proyect was born to facilitate contact between developers and project owners.",
+          "URL": "https://eduperz05.github.io/mkidea-landing/",
+          "image": {
+            "alt": "InShot_20221105_172235393.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/02/07901887-e9a0-46b0-9001-e1163d89f023_inshot_20221105_1722.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Limited working proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -483,7 +534,6 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
