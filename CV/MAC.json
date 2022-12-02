@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,8 @@
       },
       "location": {
         "country": "España",
-        "region": "Canarias"
+        "region": "Canarias",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -173,10 +174,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -189,12 +192,6 @@
       {
         "skill": {
           "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
           "type": "technology"
         }
       },
@@ -224,12 +221,6 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
@@ -237,18 +228,6 @@
       {
         "skill": {
           "name": "Microsoft Power BI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
           "type": "technology"
         }
       },
@@ -266,7 +245,31 @@
       },
       {
         "skill": {
-          "name": "Bootstrap",
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
           "type": "technology"
         }
       }
@@ -534,6 +537,7 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
