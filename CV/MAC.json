@@ -529,6 +529,9 @@
           "name": "web hosting",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Full-stack Developer"
       ]
     },
     "status": "searchingActively"
