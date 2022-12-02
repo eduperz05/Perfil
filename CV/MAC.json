@@ -173,6 +173,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
