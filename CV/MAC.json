@@ -197,19 +197,19 @@
       },
       {
         "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -221,7 +221,25 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "web hosting",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
           "type": "technology"
         }
       }
