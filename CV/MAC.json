@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,12 +11,13 @@
       "title": "Computer Engineer, Fullstack Junior",
       "description": "Me veo a mi mismo si se me permite, como un desarrollador nuevo pero con mucho potencial y sobre todo ganas de trabajar en el sector, la gente que me conoce sabe que esto es cierto y a menudo me identifican como una persona con liderazgo, dedicada y con una gran capacidad de resolver problemas.\n\nHe trabajado con herramientas de desarrollo web tanto de Frontend,  Backend, como administración de sistemas y web Hosting,  actualmente la filosofía Agile y DevOps son las que más me representan como ingeniero de Software. Actualmente me siento bastante comodo trabajando en proyectos que funcionan con NodeJS, Typescript, Vue o React, puedo trabajar tanto en la parte de servidor como de diseño web.\n\nMi meta es seguir esta linea de trabajo del desarrollo Fullstack y aspiro en el largo plazo llegar a ocupar un puesto de trabajo de **«Tech Leader»**  o **«Lider de Desarrollo»**.\n",
       "avatar": {
-        "alt": "00021-3676417349-Close portrait of elegant eduwillix person in tailored suit- futurist style, intricate baroque detial, elegant, glowing lights,.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/02/124659d8-9685-41d4-b5d4-d5e009344ecb_00021-3676417349-clo.png"
+        "alt": "00029-3676417357-Close portrait of elegant eduwillix person in tailored suit- futurist style, intricate baroque detial, elegant, glowing lights,.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/24/c823f19b-d131-489c-a36e-a541f453496a_00029-3676417357-clo.png"
       },
       "location": {
         "country": "España",
-        "region": "Canarias"
+        "region": "Canarias",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -47,7 +48,8 @@
             "surnames": "Martin",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "Código Sostenible",
@@ -84,7 +86,8 @@
             "surnames": "& Peter Fiell",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       }
     ]
   },
@@ -209,10 +212,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -547,6 +552,7 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
