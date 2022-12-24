@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -16,8 +16,7 @@
       },
       "location": {
         "country": "España",
-        "region": "Canarias",
-        "notes": "Autocompleted using Google Maps API"
+        "region": "Canarias"
       }
     },
     "relevantLinks": [
@@ -48,8 +47,7 @@
             "surnames": "Martin",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Código Sostenible",
@@ -62,7 +60,7 @@
             "title": "Author"
           }
         ],
-        "summary": "El libro que nos hubiera gustado tener entre nuestras manos cuando estábamos aprendiendo a programar. Una guía para quienes buscan la satisfacción del código bien hecho. ¿Te has planteado alguna vez cómo sería programar sin prisas, sin parches y sin chapuzas? Tras veinte años de carrera como programador, consultor, conferenciante y formador, Carlos Blé plasma lo mejor de sus enseñanzas en este libro."
+        "summary": "El libro que sin duda te hubiera gustado tener cuando estábas aprendiendo a programar. Una guía para quienes buscan la satisfacción del código bien hecho. ¿Te has planteado alguna vez cómo sería programar sin prisas, sin parches y sin chapuzas? Sin lugar a dudas un must en lectura para nuestro sector."
       },
       {
         "title": "Frontend developer",
@@ -86,8 +84,7 @@
             "surnames": "& Peter Fiell",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       }
     ]
   },
@@ -212,12 +209,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -552,7 +547,6 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
