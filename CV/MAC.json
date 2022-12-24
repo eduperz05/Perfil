@@ -39,6 +39,19 @@
     ],
     "recommendations": [
       {
+        "title": "Código Sostenible",
+        "type": "reading",
+        "URL": "https://www.carlosble.com/?lang=es",
+        "authors": [
+          {
+            "name": "Carlos",
+            "surnames": "Blé",
+            "title": "Author"
+          }
+        ],
+        "summary": "El libro que nos hubiera gustado tener entre nuestras manos cuando estábamos aprendiendo a programar. Una guía para quienes buscan la satisfacción del código bien hecho. ¿Te has planteado alguna vez cómo sería programar sin prisas, sin parches y sin chapuzas? Tras veinte años de carrera como programador, consultor, conferenciante y formador, Carlos Blé plasma lo mejor de sus enseñanzas en este libro."
+      },
+      {
         "title": "Frontend developer",
         "type": "other",
         "URL": "https://manz.dev/",
