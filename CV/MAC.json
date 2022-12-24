@@ -223,13 +223,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
+          "name": "Vue",
           "type": "technology"
         }
       },
@@ -241,19 +235,13 @@
       },
       {
         "skill": {
-          "name": "Vue",
+          "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
+          "name": "NodeJS",
           "type": "technology"
         }
       }
