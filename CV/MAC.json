@@ -39,6 +39,17 @@
     ],
     "recommendations": [
       {
+        "title": "Clean Code",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Robert C.",
+            "surnames": "Martin",
+            "title": "Author"
+          }
+        ]
+      },
+      {
         "title": "Código Sostenible",
         "type": "reading",
         "URL": "https://www.carlosble.com/?lang=es",
