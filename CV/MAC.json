@@ -256,9 +256,10 @@
     "studies": [
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Fullstack developer",
         "startDate": "2022-09-01",
+        "finishDate": "2022-12-01",
         "institution": {
           "name": "Escuela de Organización Industrial",
           "description": "Coursing it via remote in the EOI, granted by the SEPE (public service of state employment in spain).",
@@ -298,11 +299,19 @@
             "type": "technology"
           },
           {
+            "name": "Jamstack",
+            "type": "technology"
+          },
+          {
             "name": "JavaScript",
             "type": "technology"
           },
           {
             "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
             "type": "technology"
           },
           {
@@ -323,6 +332,10 @@
           },
           {
             "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "TestingLibrary",
             "type": "technology"
           },
           {
