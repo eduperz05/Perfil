@@ -81,7 +81,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/22/b9f0e83b-5b66-4dd4-9cdb-63ce49b2ba80_pricewaterhousecoope.png",
             "alt": "PricewaterhouseCoopers_Logo.svg.png"
-          }
+          },
+          "URL": "https://arte.dev/index-es.html"
         },
         "roles": [
           {
@@ -89,7 +90,7 @@
             "startDate": "2023-02-01",
             "challenges": [
               {
-                "description": "Digital and Cloud Solutions, Infraestructure designer and Dat"
+                "description": "Specialist Full-time: API designer | Data model | Infrastructure Architect"
               }
             ]
           }
