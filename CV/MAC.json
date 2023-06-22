@@ -555,6 +555,10 @@
           "type": "technology"
         },
         {
+          "name": "AWS CloudFormation",
+          "type": "technology"
+        },
+        {
           "name": "Docker",
           "type": "technology"
         },
