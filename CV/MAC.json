@@ -226,6 +226,12 @@
           "name": "Kubernetes",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
