@@ -77,6 +77,26 @@
     "jobs": [
       {
         "organization": {
+          "name": "PriceWaterhouseCoopers",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/22/b9f0e83b-5b66-4dd4-9cdb-63ce49b2ba80_pricewaterhousecoope.png",
+            "alt": "PricewaterhouseCoopers_Logo.svg.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Backend",
+            "startDate": "2023-02-01",
+            "challenges": [
+              {
+                "description": "Digital and Cloud Solutions, Infraestructure designer and Dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Arte Consultores Tecnológicos S.L.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/f193c20a-c2c3-4c10-8da1-d9ad91b3b1d3_captura-de-pantalla-.png",
