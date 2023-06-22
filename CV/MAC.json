@@ -555,10 +555,6 @@
           "type": "technology"
         },
         {
-          "name": "AWS CloudFormation",
-          "type": "technology"
-        },
-        {
           "name": "Docker",
           "type": "technology"
         },
@@ -567,7 +563,7 @@
           "type": "technology"
         },
         {
-          "name": "Kubernetes",
+          "name": "Kotlin",
           "type": "technology"
         },
         {
@@ -576,14 +572,6 @@
         },
         {
           "name": "NodeJS",
-          "type": "technology"
-        },
-        {
-          "name": "SQL",
-          "type": "technology"
-        },
-        {
-          "name": "TypeScript",
           "type": "technology"
         }
       ],
