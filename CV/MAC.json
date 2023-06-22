@@ -241,6 +241,12 @@
       },
       {
         "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
