@@ -563,6 +563,10 @@
           "type": "technology"
         },
         {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
           "name": "Spring Boot",
           "type": "technology"
         }
