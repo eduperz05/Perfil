@@ -10,34 +10,12 @@
       "surnames": "Pérez Suárez",
       "title": "Computer Engineer, Fullstack Junior",
       "description": "Me veo a mi mismo si se me permite, como un desarrollador nuevo, pero con mucho potencial y sobre todo ganas de trabajar en el sector, la gente que me conoce sabe que esto es cierto y a menudo me identifican como una persona con liderazgo, dedicada y con una gran capacidad de resolver problemas.\n\nHe trabajado con herramientas de desarrollo web tanto de Frontend, Backend, como administración de sistemas y web Hosting, la filosofía Agile y DevOps son las que más me representan como ingeniero de Software. Actualmente me siento bastante comodo trabajando en proyectos que funcionan con NodeJS, Typescript, Vue o React, puedo trabajar tanto en la parte de servidor como de diseño web.\n\nMi meta es seguir esta linea de trabajo del desarrollo Fullstack y aspiro en el largo plazo llegar a ocupar un puesto de trabajo de **«Tech Leader»** o **«Lider de Desarrollo»**.\n",
-      "avatar": {
-        "alt": "00029-3676417357-Close portrait of elegant eduwillix person in tailored suit- futurist style, intricate baroque detial, elegant, glowing lights,.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/24/c823f19b-d131-489c-a36e-a541f453496a_00029-3676417357-clo.png"
-      },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJY1N174aqQQwRwMhLvvNAAwE)",
         "country": "España",
-        "region": "Canarias",
-        "notes": "Autocompleted using Google Maps API"
+        "region": "Canarias"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/eduperz05"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/eduperz05"
-      },
-      {
-        "type": "other",
-        "URL": "https://www.instagram.com/eduperz05/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/eduardoperezsuarez/"
-      }
-    ],
     "recommendations": [
       {
         "title": "Clean Code",
@@ -48,34 +26,33 @@
             "surnames": "Martin",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Código Sostenible",
         "type": "reading",
         "URL": "https://www.carlosble.com/?lang=es",
+        "summary": "El libro que sin duda te hubiera gustado tener cuando estábas aprendiendo a programar. Una guía para quienes buscan la satisfacción del código bien hecho. ¿Te has planteado alguna vez cómo sería programar sin prisas, sin parches y sin chapuzas? Sin lugar a dudas un must en lectura para nuestro sector.",
         "authors": [
           {
             "name": "Carlos",
             "surnames": "Blé",
             "title": "Author"
           }
-        ],
-        "summary": "El libro que sin duda te hubiera gustado tener cuando estábas aprendiendo a programar. Una guía para quienes buscan la satisfacción del código bien hecho. ¿Te has planteado alguna vez cómo sería programar sin prisas, sin parches y sin chapuzas? Sin lugar a dudas un must en lectura para nuestro sector."
+        ]
       },
       {
         "title": "Frontend developer",
         "type": "other",
         "URL": "https://manz.dev/",
+        "summary": "Profesor, divulgador y creador de contenido sobre diseño web, actualmente residente en Tenerife, Islas Canarias. Apasionado del Frontend y del desarrollo de código web.\n\nEste Bookmark es la marca personal y recoge las enseñansas y conocimientos de este maravilloso profesor que pasó por mi vida pisando fuerte.",
         "authors": [
           {
             "name": "José",
             "surnames": "Román Hernández Martín",
             "title": "Author"
           }
-        ],
-        "summary": "Profesor, divulgador y creador de contenido sobre diseño web, actualmente residente en Tenerife, Islas Canarias. Apasionado del Frontend y del desarrollo de código web.\n\nEste Bookmark es la marca personal y recoge las enseñansas y conocimientos de este maravilloso profesor que pasó por mi vida pisando fuerte."
+        ]
       },
       {
         "title": "PRAGMATIC PROGRAMMER, THE: Your journey to mastery",
@@ -86,8 +63,13 @@
             "surnames": "& Peter Fiell",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://www.instagram.com/eduperz05/"
       }
     ]
   },
@@ -97,8 +79,8 @@
         "organization": {
           "name": "Arte Consultores Tecnológicos S.L.",
           "image": {
-            "alt": "Captura de pantalla 2022-10-13 131012.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/f193c20a-c2c3-4c10-8da1-d9ad91b3b1d3_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/f193c20a-c2c3-4c10-8da1-d9ad91b3b1d3_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2022-10-13 131012.png"
           },
           "URL": "https://arte.dev/index-es.html"
         },
@@ -161,8 +143,8 @@
           "description": "This proyect was born to facilitate contact between developers and project owners.",
           "URL": "https://mkidea.tech/",
           "image": {
-            "alt": "InShot_20221105_172235393.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/02/07901887-e9a0-46b0-9001-e1163d89f023_inshot_20221105_1722.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/02/07901887-e9a0-46b0-9001-e1163d89f023_inshot_20221105_1722.png",
+            "alt": "InShot_20221105_172235393.png"
           }
         },
         "type": "openSource",
@@ -212,30 +194,24 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Vue",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
           "type": "technology"
         }
       },
@@ -250,136 +226,30 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Fullstack developer",
-        "startDate": "2022-09-01",
-        "finishDate": "2022-12-01",
-        "institution": {
-          "name": "Escuela de Organización Industrial",
-          "description": "Coursing it via remote in the EOI, granted by the SEPE (public service of state employment in spain).",
-          "URL": "https://www.eoi.es/es/actualidad/identidad-corporativa",
-          "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/3c6f8426-f900-4a27-a5c6-108bf5536e26_descarga.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Bash",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "Github",
-            "type": "technology"
-          },
-          {
-            "name": "Go",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "Jamstack",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Jest",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "PostCSS",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "Tailwind",
-            "type": "technology"
-          },
-          {
-            "name": "TestingLibrary",
-            "type": "technology"
-          },
-          {
-            "name": "Vue",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "UX Experience",
-        "startDate": "2021-10-01",
-        "finishDate": "2021-11-01",
-        "institution": {
-          "name": "Fundación General Universidad de La Laguna",
-          "description": "Introducción al diseño de experiencia e interfaz de usuario",
-          "URL": "https://sede.fg.ull.es/",
-          "image": {
-            "alt": "fundación-general-de-la-ull.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/17/1a1e714b-02a6-49c4-9568-61335b799fff_fundacion-general-de.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Figma",
-            "type": "technology"
-          }
-        ]
-      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Engenier",
         "startDate": "2017-09-01",
-        "finishDate": "2022-07-01",
         "institution": {
           "name": "Universidad de La Laguna",
           "description": "University of La Laguna, Canary Islands.\nFullstack developing studies branch.",
           "URL": "https://www.ull.es/",
           "image": {
-            "alt": "Logo_ULL_2018.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/65a4daab-9887-4552-a405-012ddaa89327_logo_ull_2018.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/65a4daab-9887-4552-a405-012ddaa89327_logo_ull_2018.jpg",
+            "alt": "Logo_ULL_2018.jpg"
           }
         },
+        "finishDate": "2022-07-01",
         "linkedCompetences": [
           {
             "name": "Angular2+",
@@ -464,19 +334,151 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Fullstack developer",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "Escuela de Organización Industrial",
+          "description": "Coursing it via remote in the EOI, granted by the SEPE (public service of state employment in spain).",
+          "URL": "https://www.eoi.es/es/actualidad/identidad-corporativa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/3c6f8426-f900-4a27-a5c6-108bf5536e26_descarga.png",
+            "alt": "descarga.png"
+          }
+        },
+        "finishDate": "2022-12-01",
+        "linkedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Go",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Jamstack",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "PostCSS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "TestingLibrary",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Introducción a las matemáticas universitarias",
         "startDate": "2016-08-01",
-        "finishDate": "2016-09-01",
         "institution": {
           "name": "Fundación General Universidad de La Laguna",
           "description": "Curso introductorio a las matemáticas universitarias",
           "URL": "https://sede.fg.ull.es/",
           "image": {
-            "alt": "fundación-general-de-la-ull.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/17/9e230328-0f33-469e-9cbb-65279d69a537_fundacion-general-de.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/17/9e230328-0f33-469e-9cbb-65279d69a537_fundacion-general-de.png",
+            "alt": "fundación-general-de-la-ull.png"
           }
+        },
+        "finishDate": "2016-09-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "UX Experience",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Fundación General Universidad de La Laguna",
+          "description": "Introducción al diseño de experiencia e interfaz de usuario",
+          "URL": "https://sede.fg.ull.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/17/1a1e714b-02a6-49c4-9568-61335b799fff_fundacion-general-de.png",
+            "alt": "fundación-general-de-la-ull.png"
+          }
+        },
+        "finishDate": "2021-11-01",
+        "linkedCompetences": [
+          {
+            "name": "Figma",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visión estratégica",
+          "type": "practice"
         }
       }
     ]
@@ -485,8 +487,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/eduardoperezsuarez/"
+          "URL": "https://www.linkedin.com/in/eduardoperezsuarez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/eduperz05",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/eduperz05",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "eduperz38@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "695978430",
+          "countryCode": "+34"
         }
       ]
     },
@@ -554,5 +573,32 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "El trabajo que mejor me representaría sería sin duda aquel que me permita seguir aprendiendo, formándome y mejorar mis habilidades como programador y persona.\n\nActualmente me encuentro en la búsqueda de un puesto que me permita trabajar como un desarrollador de código Fullstack como junior, ya que actualmente las tecnologías web son las que me apasionan sin duda alguna.\n\nVivo en las maravillosas islas del Atlántico es por ello que para mí es esencial que el trabajo requiera lo mínimo posible mi trabajo de forma presencial.",
+    "goodPractices": "Actualmente y como dije antes me identifico totalmente con la filosofía de trabajo Agile, DevOps y TDD, pienso que son el camino correcto. Me encuentro también adaptando a mis estándares los principios de la programación SOLID.\n\nPienso que el continuo aprendizaje en las personas es esencial para alcanzar el éxito empresarial y para lograr la máxima realización personal.\n\nPuede parecer que estoy fuera de lugar aquí, pero considero de suma importancia la salud, tanto del individuo como en el espacio de trabajo de la empresa. Intento respetar esta regla para asegurar un entorno amigable y prospero.",
+    "projects": [
+      {
+        "name": "MKIdea"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Clean Code",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/24/e464a7b0-9f21-4df2-b982-ce073902987d_41xshlntztl.jpg"
+      },
+      {
+        "name": "Código Sostenible",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/24/11235e3f-d232-4fe2-b009-088ba48e2a5b_codigo-sostenible.png"
+      },
+      {
+        "name": "Frontend developer",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/566a8442-49c3-4348-aad9-3ad76c009733_captura-de-pantalla-.png"
+      },
+      {
+        "name": "PRAGMATIC PROGRAMMER, THE: Your journey to mastery",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/24/204419b4-7d64-4e3d-96ac-f6b8ee016f34_71f743sopol.jpg"
+      }
+    ]
   }
 }
