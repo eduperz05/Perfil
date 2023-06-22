@@ -567,6 +567,10 @@
           "type": "technology"
         },
         {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
           "name": "Kubernetes",
           "type": "technology"
         },
@@ -580,10 +584,6 @@
         },
         {
           "name": "SQL",
-          "type": "technology"
-        },
-        {
-          "name": "Tailwind",
           "type": "technology"
         },
         {
