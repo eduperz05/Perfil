@@ -569,10 +569,6 @@
         {
           "name": "Nginx",
           "type": "technology"
-        },
-        {
-          "name": "NodeJS",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
