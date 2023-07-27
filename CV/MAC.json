@@ -306,6 +306,12 @@
       },
       {
         "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Spring Boot",
           "type": "technology"
         }
