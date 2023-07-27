@@ -254,7 +254,7 @@
     "languages": [
       {
         "name": "EN",
-        "level": "Professional working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "ES",
@@ -569,11 +569,11 @@
         },
         {
           "URL": "https://github.com/eduperz05",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/eduperz05",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
