@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -542,19 +542,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Aprendizaje Continuo",
+          "name": "Analytical thinking",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Pensamiento analítico",
+          "name": "Continuous learning",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Visión estratégica",
+          "name": "Strategic vision",
           "type": "practice"
         }
       }
