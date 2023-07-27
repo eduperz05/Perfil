@@ -294,6 +294,12 @@
       },
       {
         "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NodeJS",
           "type": "technology"
         }
@@ -394,6 +400,10 @@
           },
           {
             "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "R",
             "type": "technology"
           },
           {
