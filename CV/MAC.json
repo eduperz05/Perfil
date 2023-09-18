@@ -132,29 +132,12 @@
         },
         "roles": [
           {
-            "name": "Fullstack developer",
+            "name": "Fullstack Developer",
             "startDate": "2021-05-01",
             "finishDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": "College practices: Proyects support | Data modeling | Web disign"
-              }
-            ],
             "competences": [
               {
                 "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
                 "type": "technology"
               },
               {
