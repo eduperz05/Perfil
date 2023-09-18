@@ -567,20 +567,6 @@
       ]
     },
     "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "Docker",
-          "type": "technology"
-        },
-        {
-          "name": "Kubernetes",
-          "type": "technology"
-        },
-        {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Backend Developer",
         "DevOps & Infrastructure & SRE"
