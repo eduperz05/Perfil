@@ -321,7 +321,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Computer Engenier",
+        "name": "Computer Engineer",
         "startDate": "2017-09-01",
         "institution": {
           "name": "Universidad de La Laguna",
@@ -621,7 +621,6 @@
       ],
       "preferredRoles": [
         "Backend Developer",
-        "Data Engineer",
         "DevOps & Infrastructure & SRE"
       ]
     },
