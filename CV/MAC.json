@@ -561,6 +561,12 @@
           "name": "Continuous learning",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
       }
     ]
   },
