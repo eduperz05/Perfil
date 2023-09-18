@@ -569,7 +569,15 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
           "type": "technology"
         }
       ],
