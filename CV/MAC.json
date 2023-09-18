@@ -567,6 +567,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "DevOps & Infrastructure & SRE"
