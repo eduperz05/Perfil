@@ -86,22 +86,9 @@
         },
         "roles": [
           {
-            "name": "Desarrollador Backend",
+            "name": "Backend Developer",
             "startDate": "2023-02-01",
-            "challenges": [
-              {
-                "description": "Specialist Full-time: API designer | Data model | Infrastructure Architect"
-              }
-            ],
             "competences": [
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              },
               {
                 "name": "Docker",
                 "type": "technology"
